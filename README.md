@@ -1,4 +1,4 @@
 # First-Deo
 This is my first Public repository
 <br>
-Author - Swarupraj Bhosale
+Author - Swarupraj Bhosale (B.tech Mech)
